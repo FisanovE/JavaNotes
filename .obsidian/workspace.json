@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Каким условиям должен удовлетворять класс чтобы являться Entity.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Каким условиям должен удовлетворять класс чтобы являться Entity.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Каким условиям должен удовлетворять класс чтобы являться Entity.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Каким условиям должен удовлетворять класс чтобы являться Entity.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "f17e2db3ccc993ea",
   "lastOpenFiles": [
     "index.md",
+    "README.md",
+    "notes/Каким условиям должен удовлетворять класс чтобы являться Entity.md",
     "Принципы ООП.md",
     "Комментарии.md",
     "Super.md",
