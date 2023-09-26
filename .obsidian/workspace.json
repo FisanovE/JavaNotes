@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "0f1a804e78bcbdb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c71f457e3f6d71ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f17e2db3ccc993ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Каким условиям должен удовлетворять класс чтобы являться Entity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91b10de90d51e605",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7295bf7ba0487c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c59a70633343ce48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17659b51383f9163",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Полиморфизм",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "820801d26e47498d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "right": {
+    "id": "b0b10aac64c1fd8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6988b5fbd6760d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceddc5308340ae19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Каким условиям должен удовлетворять класс чтобы являться Entity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f95ef1bb78ebef1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Каким условиям должен удовлетворять класс чтобы являться Entity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f450499b2c5fae68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfae9b7e368a4ac1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Каким условиям должен удовлетворять класс чтобы являться Entity.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f17e2db3ccc993ea",
+  "lastOpenFiles": [
+    "index.md",
+    "Принципы ООП.md",
+    "Комментарии.md",
+    "Super.md",
+    "Code style.md",
+    "Класс Object.md"
+  ]
+}
