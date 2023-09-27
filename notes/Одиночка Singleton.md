@@ -1,5 +1,6 @@
 ---
-tags: Паттерны
+tags:
+  - Паттерны
 ---
 
 [Реализация паттерна Singleton в Java / Паттерны для всех, кто с ними столкнулся](https://javarush.com/groups/posts/589-patternih-i-singleton--dlja-vsekh-kto-vpervihe-s-nimi-stolknulsja)

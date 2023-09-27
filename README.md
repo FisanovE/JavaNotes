@@ -1,6 +1,6 @@
 # JavaNotes
 
-База знаний по Java и сопутствующим технологиям в сфере backend-разработки. Основана на базе Валерия Масловского https://github.com/Maslovsky-dev/JavaNotes
+База знаний  [Obsidian](https://obsidian.md/) по Java и сопутствующим технологиям в сфере backend-разработки. Основана на базе Валерия Масловского https://github.com/Maslovsky-dev/JavaNotes
 
 # Краткое содержание
 ## Java Core
