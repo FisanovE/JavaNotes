@@ -3,5 +3,8 @@
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "new",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "userIgnoreFilters": [
+    "hidden/"
+  ]
 }

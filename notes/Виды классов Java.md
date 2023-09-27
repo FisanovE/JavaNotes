@@ -7,7 +7,7 @@ Top level class (обычный класс):
 
 Interfaces ([[Интерфейсы Java]]) 
 
-Enum ([[Enum Перечисления Java]]) 
+Enum ([[Enum]]) 
 
 Nested class ([[Вложенные классы]]): 
 	- Static nested class (статический вложенный класс); 

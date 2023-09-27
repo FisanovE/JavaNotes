@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "git",
+  "search": "Camel",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -13,10 +13,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.622395833333333,
+  "repelStrength": 9.32291666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224427,
+  "linkDistance": 217,
+  "scale": 1.0000000000000075,
   "close": false
 }
