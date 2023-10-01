@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c71f457e3f6d71ac",
+        "id": "2640304bcaa3e437",
         "type": "tabs",
         "children": [
           {
-            "id": "a9bf5ed60fecd747",
+            "id": "d9476f82be77bddb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hidden/Обновления.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66545154483b5022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hidden/HELP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Commit",
+                "query": "tag:#Git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hidden/Обновления.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hidden/Обновления.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hidden/Обновления.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,43 +138,44 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a9bf5ed60fecd747",
+  "active": "c59a70633343ce48",
   "lastOpenFiles": [
-    "hidden/HELP.md",
+    "notes/Начало работы с Git.md",
     "hidden/Обновления.md",
-    "notes/Enum.md",
-    "notes/Code style.md",
-    "notes/Условные конструкции Java.md",
-    "notes/Нововведения Java 17.md",
-    "notes/Класс Object.md",
-    "notes/Atomic типы данных.md",
-    "notes/Оформление коммитов Git.md",
-    "notes/Арифметические операции.md",
-    "notes/Понятие рефлективность Java.md",
-    "notes/Класс Class.md",
-    "notes/Finalize.md",
+    "notes/Git. Знакомство с командной строкой.md",
+    "attachments/git log.png",
+    "attachments/Мой первый коммит!.png",
+    "attachments/git status2.png",
+    "attachments/git status.png",
+    "attachments/Пройти пару уроков по Git.png",
+    "attachments/untracked files.png",
+    "attachments/Initialized empty Git repository.png",
+    "attachments/Directory not empty.png",
+    "attachments/list directory contents.png",
+    "hidden/HELP.md",
     "notes/Принципы ООП.md",
-    "notes/Класс Object 1.md",
-    "notes/Тернарный оператор.md",
-    "notes/Комментарии.md",
-    "notes/Super.md",
-    "notes/Классы обертки Java.md",
-    "notes/Экранирование символов.md",
-    "notes/Литералы.md",
-    "notes/Логические операторы Java.md",
+    "notes/Класс Object.md",
+    "notes/Finalize.md",
+    "notes/Арифметические операции.md",
+    "notes/Нововведения Java 17.md",
+    "notes/Условные конструкции Java.md",
+    "notes/Базовый синтаксис java.md",
+    "notes/Виды классов Java.md",
+    "notes/SQL.md",
+    "notes/Code style.md",
+    "notes/Enum.md",
+    "notes/Оформление коммитов Git.md",
+    "notes/Основы GIT.md",
+    "notes/Базовые инструменты разработки.md",
+    "notes/Что такое Git.md",
+    "notes/Файл gitignore.md",
+    "notes/Циклы в Java, работа с массивами, ввод данных.md",
+    "notes/Оператор ORDER BY.md",
+    "notes/Условный оператор WHERE.md",
+    "notes/Atomic типы данных.md",
+    "notes/Понятие рефлективность Java.md",
     "attachments/Остаток от деления.png",
-    "attachments/Логические операции.png",
-    "attachments/Pasted image 20230927214601.png",
-    "attachments/1НФ нормальная форма.png",
-    "attachments/Pasted image 20230927215957.png",
-    "attachments/Array Injection.png",
-    "new/Инкремент и декремент.md",
     "hidden",
-    "notes/Java Core.md",
-    "attachments/Thread pool.png",
-    "new/Логические И и ИЛИ.md",
-    "attachments/Таблица терминальных операций.png",
-    "notes/Работа с числовыми данными.md",
     "new"
   ]
 }
